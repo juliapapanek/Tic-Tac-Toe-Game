@@ -1,0 +1,31 @@
+#board {
+  top: 50px;
+  left: 25%;
+  position: relative;
+}
+
+.square {
+  width: 100px;
+  height: 100px;
+  cursor: pointer;
+  text-align: center;
+  font-size: 50px;
+}
+
+.v {
+  border-left: 1px solid #000;
+  border-right: 1px solid #000;
+}
+
+.h {
+  border-top: 1px solid #000;
+  border-bottom: 1px solid #000;
+}
+
+/*.ex {
+  background-color: pink;
+}
+
+.oh {
+  background-color: blue;
+}*/
